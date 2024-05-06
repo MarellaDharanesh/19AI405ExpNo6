@@ -1,5 +1,5 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE Game</h1> 
-<h3>Name: Marella Dharanesh</h3>
+<h3>Name: MARELLA DHARANESH</h3>
 <h3>Register Number: 212222240062</h3>
 <H3>Aim:</H3>
 <p>
@@ -301,11 +301,12 @@ if __name__ == "__main__":
 <hr>
 <h2>Sample Input and Output</h2>
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/6b668685-8bcc-43c5-b5c2-ddd43f3da84a)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8ca1b08a-8312-4ef5-89df-e69b7b2c3fa2)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/dc06427a-d4ce-43a1-95bd-9acfaefac323)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a8a27e2a-6fd4-46a2-afb5-6d27b8556702)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a2acb6a1-ed8e-42e5-8968-fe805e4b0255)
+![fai1](https://github.com/Gchethankumar/19AI405ExpNo6/assets/118348224/6552911f-03a8-465d-b619-7e8f90f2b569)
+![fai2](https://github.com/Gchethankumar/19AI405ExpNo6/assets/118348224/9e0f9094-9b59-4221-8626-1183366e9404)
+![fai3](https://github.com/Gchethankumar/19AI405ExpNo6/assets/118348224/4c429546-f266-4845-a0de-208491d4ae79)
+![fai4](https://github.com/Gchethankumar/19AI405ExpNo6/assets/118348224/464569d4-9aad-41cd-bddf-c5b52dbd117a)
+![fai6](https://github.com/Gchethankumar/19AI405ExpNo6/assets/118348224/f8ef5b82-eb16-4558-ae9e-139b5b2392c9)
+
 
 <hr>
 <h2>Result:</h2>
